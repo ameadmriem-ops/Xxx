@@ -1,0 +1,6 @@
+{
+  "name": "Black anime",
+  "description": "Black anime - مشاهدة الأنمي والأنميشن والأفلام والمسلسلات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
